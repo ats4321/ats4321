@@ -1,3 +1,29 @@
+```
+kkkxxxxdddddddddoooooooooooooooddddddxxxxxxkkk    atiksh@shukla
+kxxxxxdddddddoooooodkkxoodddooooodddddddxxxxkk    ────────────────────────────────────────
+xxxxdddddooooooox0XWWWWNNNNNX0dooooodddddxxxxk    OS ............. macOS · Phoenix, AZ
+xxdddddoooooolxXNXXNWWWWWWXNNNXxlooooooddddxxx    Role ........... Founder @ Gainloom
+xxddddoooolllxXXXXXNWWWWWNXNNWNNxlloooooddddxx    Focus .......... Quantum AI + Aerospace + Software
+xdddooooolllxNXXNXKNWWWNWNNNWWWWNdlloooooodddd    Philosophy ..... Ship in all three.
+ddddooooolllKNNXXXXKXX0k0KNNWWWWWklllloooodddd    
+dddooooollllONNNXXXOdl:ccl0WWWWWNdcllllooooddd    Languages.Code .. Python, TypeScript, C++
+dddoooollllllOWNKO0dl;,cdkOOO0KW0ccllllloooodd    Languages.AI .... LangChain, Ollama, Anthropic, Gemini
+ddooooolllllccOOllcoccldlcccllo0llcllllloooodd    Languages.Web ... Next.js, React, Node.js, Tailwind
+ddoooolllllccc:c:,',,:';l:,,:cldlccclllloooood    Languages.Science QUBO (Quantum), SGP4 (Orbital Mech.)
+ddooooollllccc:;,'''';,:c:'',:oocccllllloooodd    
+dddoooolllllccc:;,,;;;,,:ll,,:lccccllllooooodd    ────────────────────────────────────────
+dddooooolllllcccc,',;,',;:;,;llccccllllloooodd    Achievements
+dddoooollllllccccc:;,''',,:lddlccccllllloooodd    ────────────────────────────────────────
+dddooooolllllcccoO::lcclodxdlldKoccllllooooddd    [1st] NY Tech Week Hackathon 2026 (Mantle/YC F25)
+dddooooolllllllxKo,',;;,:cc::'cXKOollllooooddd    [30K] LifeAndBooks: 30K subs, 215+ videos, 217K views
+xdddooooollldx00Kd ;,''',;:'.,OXXKK0kdoooooddd    [R&D] Dextrivia: Orbital Debris Optimizer
+xdddoooodxOKK000K0;..;,',,..,kKKKKKNXXK0kxdddd    
+xdddodk0KKKKOO00K0O;. ,:,..'x0KXXKKXNXXXXXKOxx    ────────────────────────────────────────
+xxddOKKKKKKKXXXXXXXKl. '..:KNNNXXXXXXXXXXXXNXO    GitHub.Stats
+xxdOKKKKKKKKKKKKKKXXKo.. lNNXXXXXXXXXXXXXXXXXX    ────────────────────────────────────────
+                                                  Repos: 23  |  Stars: 5  |  Followers: 2
+```
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Atiksh+Shukla+%F0%9F%91%8B;Founder+%40+Gainloom;Quantum+AI+%C2%B7+Aerospace+%C2%B7+Full-Stack;Building+where+physics+meets+production" alt="Typing SVG" />
