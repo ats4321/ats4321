@@ -21,7 +21,7 @@ xdddoooodxOKK000K0;..;,',,..,kKKKKKNXXK0kxdddd
 xdddodk0KKKKOO00K0O;. ,:,..'x0KXXKKXNXXXXXKOxx    ────────────────────────────────────────
 xxddOKKKKKKKXXXXXXXKl. '..:KNNNXXXXXXXXXXXXNXO    GitHub.Stats
 xxdOKKKKKKKKKKKKKKXXKo.. lNNXXXXXXXXXXXXXXXXXX    ────────────────────────────────────────
-                                                  Repos: 25  |  Stars: 15  |  Followers: 2
+                                                  Repos: 25  |  Stars: 16  |  Followers: 2
 ```
 
 <div align="center">
