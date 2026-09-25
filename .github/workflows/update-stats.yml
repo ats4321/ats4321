@@ -1,28 +1,44 @@
-name: Update GitHub Stats
+name: Update profile assets
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 6 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/render_profile.py, .github/workflows/update-stats.yml]
+
+permissions:
+  contents: write
+
+concurrency: profile-assets
 
 jobs:
-  update-stats:
+  render:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch stats and patch README
+      - name: Test
+        run: python3 tests/test_render_profile.py
+
+      - name: Render cards (terminal, stats, languages, streak)
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional PROFILE_TOKEN (classic PAT: read:user, repo) makes counts include private work.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python3 scripts/render_profile.py
+
+      - name: Render contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake-dark.svg?palette=github-dark&color_snake=#22D3EE&color_dots=#161B22,#312E81,#4338CA,#6366F1,#8B5CF6
+            assets/snake-light.svg?palette=github-light&color_snake=#0891B2&color_dots=#EBEDF0,#C7D2FE,#A5B4FC,#6366F1,#7C3AED
+
+      - name: Commit
         run: |
-          REPOS=$(gh api users/ats4321 --jq ".public_repos")
-          FOLLOWERS=$(gh api users/ats4321 --jq ".followers")
-          STARS=$(gh api users/ats4321/repos --jq "[.[].stargazers_count] | add // 0")
-
-          sed -i "s/Repos: [0-9]*  |  Stars: [0-9]*  |  Followers: [0-9]*/Repos: $REPOS  |  Stars: $STARS  |  Followers: $FOLLOWERS/" README.md
-
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet || (git add README.md && git commit -m "chore: update GitHub stats" && git push)
+          git add assets
+          git diff --cached --quiet || (git commit -m "chore: refresh profile assets" && git push)

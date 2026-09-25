@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="220" viewBox="0 0 830 220" role="img">
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#E6EDF3}
+.m{fill:#8B949E} .i{fill:#6366F1} .v{fill:#8B5CF6} .c{fill:#22D3EE} .b{font-weight:700}
+
+.scan{animation:scan 6s linear infinite} @keyframes scan{from{transform:translateY(-10px)}to{transform:translateY(220px)}}
+.comet{animation:orbit 6s linear infinite} @keyframes orbit{from{stroke-dashoffset:100}to{stroke-dashoffset:0}}
+.cur{animation:blink 1.1s steps(1) infinite} @keyframes blink{50%{opacity:0}}
+.pulse{animation:pulse 3s ease-in-out infinite} @keyframes pulse{50%{opacity:.55}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs><linearGradient id="grad" x1="0" x2="1"><stop offset="0" stop-color="#6366F1"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient></defs>
+<rect x=".5" y=".5" width="829" height="219" rx="12" fill="#0D1117" stroke="#262C36"/>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1C2230"/></pattern>
+<linearGradient id="sl" x1="0" x2="1"><stop offset="0" stop-color="#22D3EE" stop-opacity="0"/><stop offset=".5" stop-color="#22D3EE"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient>
+<radialGradient id="planet" cx=".35" cy=".35"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#6366F1"/></radialGradient>
+<clipPath id="clip"><rect width="830" height="220" rx="12"/></clipPath></defs>
+<g clip-path="url(#clip)"><rect width="830" height="220" fill="url(#grid)"/>
+<rect class="scan" width="830" height="2" fill="url(#sl)" opacity=".45"/></g>
+<path d="M16 30V16H30" fill="none" stroke="#6366F1" stroke-width="2"/><path d="M814 30V16H800" fill="none" stroke="#6366F1" stroke-width="2"/><path d="M16 190V204H30" fill="none" stroke="#6366F1" stroke-width="2"/><path d="M814 190V204H800" fill="none" stroke="#6366F1" stroke-width="2"/>
+<g transform="translate(700 84) rotate(-20)"><ellipse rx="96" ry="30" fill="none" stroke="#262C36" stroke-width="1.2"/><ellipse rx="96" ry="30" fill="none" stroke="#22D3EE" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="7 93" class="comet" style="animation-duration:7s"/></g><g transform="translate(700 84) rotate(28)"><ellipse rx="70" ry="22" fill="none" stroke="#262C36" stroke-width="1.2"/><ellipse rx="70" ry="22" fill="none" stroke="#22D3EE" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="7 93" class="comet" style="animation-duration:5s"/></g>
+<circle cx="700" cy="84" r="20" fill="url(#planet)" class="pulse"/>
+<text x="44" y="58" font-size="13" class="c" text-anchor="start" letter-spacing="1.5">&gt; SYS.ONLINE // github.com/ats4321</text>
+<text x="42" y="118" font-size="46" class="b" fill="url(#grad)" style="fill:url(#grad)" letter-spacing="3">ATIKSH SHUKLA</text>
+<text x="44" y="176" font-size="24" class="" text-anchor="start" >Building where physics, AI, and software meet</text>
+<rect class="cur" x="697.9999999999999" y="156" width="12" height="24" fill="#22D3EE"/>
+</svg>

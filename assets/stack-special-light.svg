@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="738" height="40" viewBox="0 0 738 40" role="img">
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#1F2328}
+.m{fill:#59636E} .i{fill:#4F46E5} .v{fill:#7C3AED} .c{fill:#0891B2} .b{font-weight:700}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs><linearGradient id="grad" x1="0" x2="1"><stop offset="0" stop-color="#4F46E5"/><stop offset="1" stop-color="#7C3AED"/></linearGradient></defs>
+<rect x="1" y="1" width="272" height="38" rx="9" fill="#F6F8FA" stroke="#D0D7DE"/><rect x="17" y="16.0" width="7" height="7" rx="1.5" fill="#0891B2" transform="rotate(45 20.5 19.5)"/><text x="33" y="25.0" font-size="14" class="" text-anchor="start" >Quantum Optimization · QUBO</text><rect x="283" y="1" width="247" height="38" rx="9" fill="#F6F8FA" stroke="#D0D7DE"/><rect x="299" y="16.0" width="7" height="7" rx="1.5" fill="#0891B2" transform="rotate(45 302.5 19.5)"/><text x="315" y="25.0" font-size="14" class="" text-anchor="start" >Orbital Mechanics · SGP4</text><rect x="540" y="1" width="197" height="38" rx="9" fill="#F6F8FA" stroke="#D0D7DE"/><rect x="556" y="16.0" width="7" height="7" rx="1.5" fill="#0891B2" transform="rotate(45 559.5 19.5)"/><text x="572" y="25.0" font-size="14" class="" text-anchor="start" >Prompt Engineering</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="695" height="40" viewBox="0 0 695 40" role="img">
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#1F2328}
+.m{fill:#59636E} .i{fill:#4F46E5} .v{fill:#7C3AED} .c{fill:#0891B2} .b{font-weight:700}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs><linearGradient id="grad" x1="0" x2="1"><stop offset="0" stop-color="#4F46E5"/><stop offset="1" stop-color="#7C3AED"/></linearGradient></defs>
+<rect x="1" y="1" width="121" height="38" rx="9" fill="#F6F8FA" stroke="#D0D7DE"/><rect x="17" y="16.0" width="7" height="7" rx="1.5" fill="#0891B2" transform="rotate(45 20.5 19.5)"/><text x="33" y="25.0" font-size="14" class="" text-anchor="start" >LangChain</text><rect x="132" y="1" width="113" height="38" rx="9" fill="#F6F8FA" stroke="#D0D7DE"/><rect x="148" y="16.0" width="7" height="7" rx="1.5" fill="#0891B2" transform="rotate(45 151.5 19.5)"/><text x="164" y="25.0" font-size="14" class="" text-anchor="start" >Pinecone</text><rect x="255" y="1" width="96" height="38" rx="9" fill="#F6F8FA" stroke="#D0D7DE"/><rect x="271" y="16.0" width="7" height="7" rx="1.5" fill="#0891B2" transform="rotate(45 274.5 19.5)"/><text x="287" y="25.0" font-size="14" class="" text-anchor="start" >OpenAI</text><rect x="361" y="1" width="121" height="38" rx="9" fill="#F6F8FA" stroke="#D0D7DE"/><rect x="377" y="16.0" width="7" height="7" rx="1.5" fill="#0891B2" transform="rotate(45 380.5 19.5)"/><text x="393" y="25.0" font-size="14" class="" text-anchor="start" >Anthropic</text><rect x="492" y="1" width="96" height="38" rx="9" fill="#F6F8FA" stroke="#D0D7DE"/><rect x="508" y="16.0" width="7" height="7" rx="1.5" fill="#0891B2" transform="rotate(45 511.5 19.5)"/><text x="524" y="25.0" font-size="14" class="" text-anchor="start" >Gemini</text><rect x="598" y="1" width="96" height="38" rx="9" fill="#F6F8FA" stroke="#D0D7DE"/><rect x="614" y="16.0" width="7" height="7" rx="1.5" fill="#0891B2" transform="rotate(45 617.5 19.5)"/><text x="630" y="25.0" font-size="14" class="" text-anchor="start" >Ollama</text>
+</svg>

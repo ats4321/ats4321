@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="170" viewBox="0 0 830 170" role="img">
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#1F2328}
+.m{fill:#59636E} .i{fill:#4F46E5} .v{fill:#7C3AED} .c{fill:#0891B2} .b{font-weight:700}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs><linearGradient id="grad" x1="0" x2="1"><stop offset="0" stop-color="#4F46E5"/><stop offset="1" stop-color="#7C3AED"/></linearGradient></defs>
+<rect x=".5" y=".5" width="829" height="169" rx="12" fill="#FFFFFF" stroke="#D0D7DE"/><text x="138.33333333333334" y="80" font-size="36" text-anchor="middle" class="b" style="fill:url(#grad)">70</text><text x="138.33333333333334" y="112" font-size="12" class="c b" text-anchor="middle" letter-spacing="1.5">ACTIVE DAYS · 2026</text><text x="138.33333333333334" y="132" font-size="12" class="m" text-anchor="middle" >Jan 1 – Sep 25</text><line x1="276.6666666666667" y1="28" x2="276.6666666666667" y2="142" stroke="#D0D7DE"/><circle cx="415.0" cy="66" r="38" fill="none" stroke="#D0D7DE" stroke-width="5"/><circle cx="415.0" cy="66" r="38" fill="none" stroke="url(#grad)" stroke-width="5" stroke-dasharray="30.8 240" stroke-linecap="round" transform="rotate(-90 415.0 66)"/><text x="415.0" y="78" font-size="32" text-anchor="middle" class="b">4</text><text x="415.0" y="128" font-size="12" class="c b" text-anchor="middle" letter-spacing="1.5">CURRENT STREAK</text><text x="415.0" y="148" font-size="12" class="m" text-anchor="middle" >Sep 21 – Sep 25</text><line x1="553.3333333333334" y1="28" x2="553.3333333333334" y2="142" stroke="#D0D7DE"/><text x="691.6666666666667" y="80" font-size="36" text-anchor="middle" class="b" style="fill:url(#grad)">31</text><text x="691.6666666666667" y="112" font-size="12" class="c b" text-anchor="middle" letter-spacing="1.5">LONGEST STREAK</text><text x="691.6666666666667" y="132" font-size="12" class="m" text-anchor="middle" >Jul 26 – Aug 25</text>
+</svg>

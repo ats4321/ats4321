@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="200" viewBox="0 0 410 200" role="img">
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;fill:#E6EDF3}
+.m{fill:#8B949E} .i{fill:#6366F1} .v{fill:#8B5CF6} .c{fill:#22D3EE} .b{font-weight:700}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<defs><linearGradient id="grad" x1="0" x2="1"><stop offset="0" stop-color="#6366F1"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient></defs>
+<rect x=".5" y=".5" width="409" height="199" rx="12" fill="#0D1117" stroke="#262C36"/><text x="24" y="36" font-size="15" class="i b" text-anchor="start" >// telemetry</text><rect x="24" y="63" width="6" height="6" rx="1" fill="#22D3EE"/><text x="40" y="72" font-size="13" class="m" text-anchor="start" >Contributions (all time)</text><text x="386" y="72" font-size="14" class="b" text-anchor="end" >479</text><rect x="24" y="90" width="6" height="6" rx="1" fill="#22D3EE"/><text x="40" y="99" font-size="13" class="m" text-anchor="start" >Pull requests</text><text x="386" y="99" font-size="14" class="b" text-anchor="end" >106</text><rect x="24" y="117" width="6" height="6" rx="1" fill="#22D3EE"/><text x="40" y="126" font-size="13" class="m" text-anchor="start" >Issues</text><text x="386" y="126" font-size="14" class="b" text-anchor="end" >12</text><rect x="24" y="144" width="6" height="6" rx="1" fill="#22D3EE"/><text x="40" y="153" font-size="13" class="m" text-anchor="start" >Contributed to (repos)</text><text x="386" y="153" font-size="14" class="b" text-anchor="end" >6</text><rect x="24" y="171" width="6" height="6" rx="1" fill="#22D3EE"/><text x="40" y="180" font-size="13" class="m" text-anchor="start" >Member since</text><text x="386" y="180" font-size="14" class="b" text-anchor="end" >Nov 2025</text>
+</svg>
