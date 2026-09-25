@@ -29,12 +29,12 @@
 
 I'm in Phoenix. Most of what I build is AI tooling wrapped in a full-stack app someone can actually use.
 
-<a href="https://atikshshukla.vercel.app"><img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&labelColor=24292F&logo=vercel&logoColor=white" height="28" alt="Portfolio"></a>
-<a href="https://linkedin.com/in/atiksh-shukla-a63356390"><img src="https://img.shields.io/badge/LinkedIn-24292F?style=flat-square&labelColor=24292F&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjQgNCA2NCA2NCI+PHBhdGggZD0iTTYyLDYyIEw1MS4zMTU2MjUsNjIgTDUxLjMxNTYyNSw0My44MDIxMTQ5IEM1MS4zMTU2MjUsMzguODEyNzU0MiA0OS40MTk3OTE3LDM2LjAyNDUzMjMgNDUuNDcwNzAzMSwzNi4wMjQ1MzIzIEM0MS4xNzQ2MDk0LDM2LjAyNDUzMjMgMzguOTMwMDc4MSwzOC45MjYxMTAzIDM4LjkzMDA3ODEsNDMuODAyMTE0OSBMMzguOTMwMDc4MSw2MiBMMjguNjMzMzMzMyw2MiBMMjguNjMzMzMzMywyNy4zMzMzMzMzIEwzOC45MzAwNzgxLDI3LjMzMzMzMzMgTDM4LjkzMDA3ODEsMzIuMDAyOTI4MyBDMzguOTMwMDc4MSwzMi4wMDI5MjgzIDQyLjAyNjA0MTcsMjYuMjc0MjE1MSA0OS4zODI1NTIxLDI2LjI3NDIxNTEgQzU2LjczNTY3NzEsMjYuMjc0MjE1MSA2MiwzMC43NjQ0NzA1IDYyLDQwLjA1MTIxMiBMNjIsNjIgWiBNMTYuMzQ5MzQ5LDIyLjc5NDAxMzMgQzEyLjg0MjA1NzMsMjIuNzk0MDEzMyAxMCwxOS45Mjk2NTY3IDEwLDE2LjM5NzAwNjcgQzEwLDEyLjg2NDM1NjYgMTIuODQyMDU3MywxMCAxNi4zNDkzNDksMTAgQzE5Ljg1NjY0MDYsMTAgMjIuNjk3MDA1MiwxMi44NjQzNTY2IDIyLjY5NzAwNTIsMTYuMzk3MDA2NyBDMjIuNjk3MDA1MiwxOS45Mjk2NTY3IDE5Ljg1NjY0MDYsMjIuNzk0MDEzMyAxNi4zNDkzNDksMjIuNzk0MDEzMyBaIE0xMS4wMzI1NTIxLDYyIEwyMS43Njk0MDEsNjIgTDIxLjc2OTQwMSwyNy4zMzMzMzMzIEwxMS4wMzI1NTIxLDI3LjMzMzMzMzMgTDExLjAzMjU1MjEsNjIgWiIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg==&logoColor=white" height="28" alt="LinkedIn"></a>
-<a href="https://github.com/ats4321"><img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&labelColor=24292F&logo=github&logoColor=white" height="28" alt="GitHub"></a>
-<a href="https://x.com/atshuu21"><img src="https://img.shields.io/badge/X-24292F?style=flat-square&labelColor=24292F&logo=x&logoColor=white" height="28" alt="X"></a>
-<a href="https://youtube.com/@LifeandBooksss"><img src="https://img.shields.io/badge/YouTube-24292F?style=flat-square&labelColor=24292F&logo=youtube&logoColor=white" height="28" alt="YouTube"></a>
-<a href="mailto:theatikshshukla@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=flat-square&labelColor=24292F&logo=gmail&logoColor=white" height="28" alt="Email"></a>
+<a href="https://atikshshukla.vercel.app"><img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&labelColor=24292F&logo=vercel&logoColor=white" width="111" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/atiksh-shukla-a63356390"><img src="https://img.shields.io/badge/LinkedIn-24292F?style=flat-square&labelColor=24292F&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjQgNCA2NCA2NCI+PHBhdGggZD0iTTYyLDYyIEw1MS4zMTU2MjUsNjIgTDUxLjMxNTYyNSw0My44MDIxMTQ5IEM1MS4zMTU2MjUsMzguODEyNzU0MiA0OS40MTk3OTE3LDM2LjAyNDUzMjMgNDUuNDcwNzAzMSwzNi4wMjQ1MzIzIEM0MS4xNzQ2MDk0LDM2LjAyNDUzMjMgMzguOTMwMDc4MSwzOC45MjYxMTAzIDM4LjkzMDA3ODEsNDMuODAyMTE0OSBMMzguOTMwMDc4MSw2MiBMMjguNjMzMzMzMyw2MiBMMjguNjMzMzMzMywyNy4zMzMzMzMzIEwzOC45MzAwNzgxLDI3LjMzMzMzMzMgTDM4LjkzMDA3ODEsMzIuMDAyOTI4MyBDMzguOTMwMDc4MSwzMi4wMDI5MjgzIDQyLjAyNjA0MTcsMjYuMjc0MjE1MSA0OS4zODI1NTIxLDI2LjI3NDIxNTEgQzU2LjczNTY3NzEsMjYuMjc0MjE1MSA2MiwzMC43NjQ0NzA1IDYyLDQwLjA1MTIxMiBMNjIsNjIgWiBNMTYuMzQ5MzQ5LDIyLjc5NDAxMzMgQzEyLjg0MjA1NzMsMjIuNzk0MDEzMyAxMCwxOS45Mjk2NTY3IDEwLDE2LjM5NzAwNjcgQzEwLDEyLjg2NDM1NjYgMTIuODQyMDU3MywxMCAxNi4zNDkzNDksMTAgQzE5Ljg1NjY0MDYsMTAgMjIuNjk3MDA1MiwxMi44NjQzNTY2IDIyLjY5NzAwNTIsMTYuMzk3MDA2NyBDMjIuNjk3MDA1MiwxOS45Mjk2NTY3IDE5Ljg1NjY0MDYsMjIuNzk0MDEzMyAxNi4zNDkzNDksMjIuNzk0MDEzMyBaIE0xMS4wMzI1NTIxLDYyIEwyMS43Njk0MDEsNjIgTDIxLjc2OTQwMSwyNy4zMzMzMzMzIEwxMS4wMzI1NTIxLDI3LjMzMzMzMzMgTDExLjAzMjU1MjEsNjIgWiIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg==&logoColor=white" width="113" alt="LinkedIn"></a>
+<a href="https://github.com/ats4321"><img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&labelColor=24292F&logo=github&logoColor=white" width="99" alt="GitHub"></a>
+<a href="https://x.com/atshuu21"><img src="https://img.shields.io/badge/X-24292F?style=flat-square&labelColor=24292F&logo=x&logoColor=white" width="57" alt="X"></a>
+<a href="https://youtube.com/@LifeandBooksss"><img src="https://img.shields.io/badge/YouTube-24292F?style=flat-square&labelColor=24292F&logo=youtube&logoColor=white" width="113" alt="YouTube"></a>
+<a href="mailto:theatikshshukla@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=flat-square&labelColor=24292F&logo=gmail&logoColor=white" width="91" alt="Email"></a>
 
 </div>
 
@@ -111,9 +111,9 @@ I usually build the whole thing, from the model calls to the interface people cl
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Subscribers-30K%2B-24292F?style=flat-square&labelColor=24292F&logo=youtube&logoColor=white" height="28" alt="30K+ subscribers">
-<img src="https://img.shields.io/badge/Videos-215%2B-24292F?style=flat-square&labelColor=24292F&logo=youtube&logoColor=white" height="28" alt="215+ videos">
-<img src="https://img.shields.io/badge/Views-217K%2B-24292F?style=flat-square&labelColor=24292F&logo=youtube&logoColor=white" height="28" alt="217K+ views">
+<img src="https://img.shields.io/badge/Subscribers-30K%2B-24292F?style=flat-square&labelColor=24292F&logo=youtube&logoColor=white" width="186" alt="30K+ subscribers">
+<img src="https://img.shields.io/badge/Videos-215%2B-24292F?style=flat-square&labelColor=24292F&logo=youtube&logoColor=white" width="144" alt="215+ videos">
+<img src="https://img.shields.io/badge/Views-217K%2B-24292F?style=flat-square&labelColor=24292F&logo=youtube&logoColor=white" width="147" alt="217K+ views">
 
 </div>
 
@@ -124,7 +124,7 @@ A book and life channel I run with my mom. The three newest episodes:
 - [Doha Diaries, Essence of Life: The Priceless Things We Often Take for Granted | Episode 216](https://www.youtube.com/watch?v=8c5MtFFhLQs)
 - [Quote that Stayed with me: What You Seek May Not Be What You Expect | Episode 215](https://www.youtube.com/watch?v=w1m9q2F5tYY)<!-- BLOG-POST-LIST:END -->
 
-<a href="https://youtube.com/@LifeandBooksss"><img src="https://img.shields.io/badge/Watch_on_YouTube-24292F?style=flat-square&labelColor=24292F&logo=youtube&logoColor=white" height="28" alt="Watch LifeAndBooks on YouTube"></a>
+<a href="https://youtube.com/@LifeandBooksss"><img src="https://img.shields.io/badge/Watch_on_YouTube-24292F?style=flat-square&labelColor=24292F&logo=youtube&logoColor=white" width="192" alt="Watch LifeAndBooks on YouTube"></a>
 
 ## Achievements
 
@@ -135,12 +135,12 @@ A book and life channel I run with my mom. The three newest episodes:
 
 I'm open to collaborations, speaking, and open-source work. I can talk about building AI systems and agents, or about growing a YouTube channel.
 
-<a href="mailto:theatikshshukla@gmail.com"><img src="https://img.shields.io/badge/Email_me-24292F?style=flat-square&labelColor=24292F&logo=gmail&logoColor=white" height="28" alt="Email me"></a>
-<a href="https://linkedin.com/in/atiksh-shukla-a63356390"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-24292F?style=flat-square&labelColor=24292F&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjQgNCA2NCA2NCI+PHBhdGggZD0iTTYyLDYyIEw1MS4zMTU2MjUsNjIgTDUxLjMxNTYyNSw0My44MDIxMTQ5IEM1MS4zMTU2MjUsMzguODEyNzU0MiA0OS40MTk3OTE3LDM2LjAyNDUzMjMgNDUuNDcwNzAzMSwzNi4wMjQ1MzIzIEM0MS4xNzQ2MDk0LDM2LjAyNDUzMjMgMzguOTMwMDc4MSwzOC45MjYxMTAzIDM4LjkzMDA3ODEsNDMuODAyMTE0OSBMMzguOTMwMDc4MSw2MiBMMjguNjMzMzMzMyw2MiBMMjguNjMzMzMzMywyNy4zMzMzMzMzIEwzOC45MzAwNzgxLDI3LjMzMzMzMzMgTDM4LjkzMDA3ODEsMzIuMDAyOTI4MyBDMzguOTMwMDc4MSwzMi4wMDI5MjgzIDQyLjAyNjA0MTcsMjYuMjc0MjE1MSA0OS4zODI1NTIxLDI2LjI3NDIxNTEgQzU2LjczNTY3NzEsMjYuMjc0MjE1MSA2MiwzMC43NjQ0NzA1IDYyLDQwLjA1MTIxMiBMNjIsNjIgWiBNMTYuMzQ5MzQ5LDIyLjc5NDAxMzMgQzEyLjg0MjA1NzMsMjIuNzk0MDEzMyAxMCwxOS45Mjk2NTY3IDEwLDE2LjM5NzAwNjcgQzEwLDEyLjg2NDM1NjYgMTIuODQyMDU3MywxMCAxNi4zNDkzNDksMTAgQzE5Ljg1NjY0MDYsMTAgMjIuNjk3MDA1MiwxMi44NjQzNTY2IDIyLjY5NzAwNTIsMTYuMzk3MDA2NyBDMjIuNjk3MDA1MiwxOS45Mjk2NTY3IDE5Ljg1NjY0MDYsMjIuNzk0MDEzMyAxNi4zNDkzNDksMjIuNzk0MDEzMyBaIE0xMS4wMzI1NTIxLDYyIEwyMS43Njk0MDEsNjIgTDIxLjc2OTQwMSwyNy4zMzMzMzMzIEwxMS4wMzI1NTIxLDI3LjMzMzMzMzMgTDExLjAzMjU1MjEsNjIgWiIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg==&logoColor=white" height="28" alt="Connect on LinkedIn"></a>
+<a href="mailto:theatikshshukla@gmail.com"><img src="https://img.shields.io/badge/Email_me-24292F?style=flat-square&labelColor=24292F&logo=gmail&logoColor=white" width="119" alt="Email me"></a>
+<a href="https://linkedin.com/in/atiksh-shukla-a63356390"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-24292F?style=flat-square&labelColor=24292F&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjQgNCA2NCA2NCI+PHBhdGggZD0iTTYyLDYyIEw1MS4zMTU2MjUsNjIgTDUxLjMxNTYyNSw0My44MDIxMTQ5IEM1MS4zMTU2MjUsMzguODEyNzU0MiA0OS40MTk3OTE3LDM2LjAyNDUzMjMgNDUuNDcwNzAzMSwzNi4wMjQ1MzIzIEM0MS4xNzQ2MDk0LDM2LjAyNDUzMjMgMzguOTMwMDc4MSwzOC45MjYxMTAzIDM4LjkzMDA3ODEsNDMuODAyMTE0OSBMMzguOTMwMDc4MSw2MiBMMjguNjMzMzMzMyw2MiBMMjguNjMzMzMzMywyNy4zMzMzMzMzIEwzOC45MzAwNzgxLDI3LjMzMzMzMzMgTDM4LjkzMDA3ODEsMzIuMDAyOTI4MyBDMzguOTMwMDc4MSwzMi4wMDI5MjgzIDQyLjAyNjA0MTcsMjYuMjc0MjE1MSA0OS4zODI1NTIxLDI2LjI3NDIxNTEgQzU2LjczNTY3NzEsMjYuMjc0MjE1MSA2MiwzMC43NjQ0NzA1IDYyLDQwLjA1MTIxMiBMNjIsNjIgWiBNMTYuMzQ5MzQ5LDIyLjc5NDAxMzMgQzEyLjg0MjA1NzMsMjIuNzk0MDEzMyAxMCwxOS45Mjk2NTY3IDEwLDE2LjM5NzAwNjcgQzEwLDEyLjg2NDM1NjYgMTIuODQyMDU3MywxMCAxNi4zNDkzNDksMTAgQzE5Ljg1NjY0MDYsMTAgMjIuNjk3MDA1MiwxMi44NjQzNTY2IDIyLjY5NzAwNTIsMTYuMzk3MDA2NyBDMjIuNjk3MDA1MiwxOS45Mjk2NTY3IDE5Ljg1NjY0MDYsMjIuNzk0MDEzMyAxNi4zNDkzNDksMjIuNzk0MDEzMyBaIE0xMS4wMzI1NTIxLDYyIEwyMS43Njk0MDEsNjIgTDIxLjc2OTQwMSwyNy4zMzMzMzMzIEwxMS4wMzI1NTIxLDI3LjMzMzMzMzMgTDExLjAzMjU1MjEsNjIgWiIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg==&logoColor=white" width="206" alt="Connect on LinkedIn"></a>
 
 <div align="center">
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ats4321.ats4321&left_color=%2324292F&right_color=%2324292F&left_text=Profile%20views" height="28" alt="Profile views">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ats4321.ats4321&left_color=%2324292F&right_color=%2324292F&left_text=Profile%20views" width="135" alt="Profile views">
 
 <sub>Stats last updated <!--updated-->September 25, 2026<!--/updated--></sub>
 
