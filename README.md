@@ -71,8 +71,8 @@ Real-time ambient AI vocal coach.<br/>
 <p align="center">
   <sub><b>LANGUAGES</b></sub><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,cpp&theme=dark">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp&theme=light" width="217" height="48" alt="Python, TypeScript, JavaScript, C++">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp&theme=dark">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp&theme=light" height="48" alt="Python, TypeScript, JavaScript, C++">
   </picture>
 </p>
 <p align="center">
@@ -85,8 +85,8 @@ Real-time ambient AI vocal coach.<br/>
 <p align="center">
   <sub><b>WEB</b></sub><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind&theme=dark">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind&theme=light" width="217" height="48" alt="Next.js, React, Node.js, Tailwind">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cnodejs%2Ctailwind&theme=dark">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind&theme=light" height="48" alt="Next.js, React, Node.js, Tailwind">
   </picture>
 </p>
 <p align="center">
