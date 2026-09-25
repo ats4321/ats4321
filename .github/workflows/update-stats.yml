@@ -17,7 +17,7 @@ jobs:
   render:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Test
         run: python3 tests/test_render_profile.py
