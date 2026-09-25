@@ -21,7 +21,7 @@ jobs:
           max_post_count: 3
           template: "$newline- [$title]($url)"
           # Some titles use en dashes; the README avoids them.
-          item_exec: 'post.title = post.title.replace(/\s*[–—]\s*/g, ", ")'
+          item_exec: 'post.title = post.title.replace(/\s*[\u2013\u2014]\s*/g, ", ")'
           commit_message: "chore: latest LifeAndBooks videos"
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
