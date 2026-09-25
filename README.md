@@ -29,7 +29,8 @@ I move between quantum research, flight systems, and production software — and
 <table>
 <tr>
 <td width="50%" valign="top">
-<b>Walkthru</b> · <sub>1st Place, NY Tech Week Intern Hackathon 2026 (Mantle / YC F25)</sub><br/>
+<b>Walkthru</b><br/>
+<sub><b>1st Place</b> · NY Tech Week Intern Hackathon 2026 · Mantle / YC F25</sub><br/>
 Pre-commit LLM quiz gate — forces you to understand code before it ships.<br/>
 <code>Git Hooks</code> <code>LLMs</code>
 </td>
@@ -71,7 +72,7 @@ Real-time ambient AI vocal coach.<br/>
   <sub><b>LANGUAGES</b></sub><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,cpp&theme=dark">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp&theme=light" height="48" alt="Python, TypeScript, JavaScript, C++">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp&theme=light" width="217" height="48" alt="Python, TypeScript, JavaScript, C++">
   </picture>
 </p>
 <p align="center">
@@ -85,7 +86,7 @@ Real-time ambient AI vocal coach.<br/>
   <sub><b>WEB</b></sub><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind&theme=dark">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind&theme=light" height="48" alt="Next.js, React, Node.js, Tailwind">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind&theme=light" width="217" height="48" alt="Next.js, React, Node.js, Tailwind">
   </picture>
 </p>
 <p align="center">
