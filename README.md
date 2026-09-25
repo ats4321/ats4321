@@ -66,10 +66,10 @@ More detail on each project is on [my site](https://atikshshukla.vercel.app).
 
 ## Latest from LifeAndBooks
 
-<!-- BLOG-POST-LIST:START -->- [Practical Wisdom with Ancient Scriptures: Bhagavad Gita Chapter 9 Verse 27 | Episode 217](https://www.youtube.com/watch?v=W4T5xo0Y3KM)
+<!-- BLOG-POST-LIST:START -->
+- [Practical Wisdom with Ancient Scriptures: Bhagavad Gita Chapter 9 Verse 27 | Episode 217](https://www.youtube.com/watch?v=W4T5xo0Y3KM)
 - [Doha Diaries, Essence of Life: The Priceless Things We Often Take for Granted | Episode 216](https://www.youtube.com/watch?v=8c5MtFFhLQs)
-- [Quote that Stayed with me: What You Seek May Not Be What You Expect | Episode 215](https://www.youtube.com/watch?v=w1m9q2F5tYY)
-<!-- BLOG-POST-LIST:END -->
+- [Quote that Stayed with me: What You Seek May Not Be What You Expect | Episode 215](https://www.youtube.com/watch?v=w1m9q2F5tYY)<!-- BLOG-POST-LIST:END -->
 
 ## Lately
 
