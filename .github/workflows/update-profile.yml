@@ -1,14 +1,16 @@
-name: Latest LifeAndBooks videos
+name: Update profile
 
 on:
   schedule:
     - cron: "0 14 * * *"
   workflow_dispatch:
   push:
-    paths: [.github/workflows/latest-videos.yml]
+    paths: [.github/workflows/update-profile.yml, scripts/update_profile.py]
 
 permissions:
   contents: write
+
+concurrency: update-profile
 
 jobs:
   update:
@@ -28,3 +30,20 @@ jobs:
           # The YouTube feed intermittently returns 500.
           retry_count: 5
           retry_wait_time: 10
+
+      - name: Test
+        run: python3 tests/test_update_profile.py
+
+      - name: Render stats cards and refresh README numbers
+        env:
+          # Optional PROFILE_TOKEN (classic PAT: read:user, repo) makes counts include private work.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update_profile.py
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase --quiet
+          git add assets README.md
+          git diff --cached --quiet || (git commit -m "chore: refresh profile stats" && git push)
