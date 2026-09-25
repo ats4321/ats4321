@@ -1,0 +1,30 @@
+name: Latest LifeAndBooks videos
+
+on:
+  schedule:
+    - cron: "0 14 * * *"
+  workflow_dispatch:
+  push:
+    paths: [.github/workflows/latest-videos.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCCZ_TlSyNhcmuBQPn4wANaA"
+          max_post_count: 3
+          template: "- [$title]($url)$newline"
+          # Some titles use en dashes; the README avoids them.
+          item_exec: 'post.title = post.title.replace(/\s*[–—]\s*/g, ", ")'
+          commit_message: "chore: latest LifeAndBooks videos"
+          committer_username: "github-actions[bot]"
+          committer_email: "github-actions[bot]@users.noreply.github.com"
+          # The YouTube feed intermittently returns 500.
+          retry_count: 5
+          retry_wait_time: 10

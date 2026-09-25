@@ -1,138 +1,80 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Atiksh Shukla — Building where physics, AI, and software meet">
-</picture>
+TODO(atiksh): Walkthru demo GIF or a photo you took goes here.
 
-<p align="center">
-  <a href="https://atikshshukla.vercel.app"><img src="assets/btn-portfolio.svg" height="34" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/atiksh-shukla-a63356390"><img src="assets/btn-linkedin.svg" height="34" alt="LinkedIn"></a>
-  <a href="https://x.com/atshuu21"><img src="assets/btn-x.svg" height="34" alt="X @atshuu21"></a>
-  <a href="mailto:theatikshshukla@gmail.com"><img src="assets/btn-email.svg" height="34" alt="Email"></a>
-</p>
+# Atiksh Shukla
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch-dark.svg">
-  <img src="assets/neofetch-light.svg" width="100%" alt="Terminal card: Founder @ Gainloom, Phoenix AZ, live GitHub stats">
-</picture>
+Hi, I'm Atiksh. I'm in Phoenix, and most of what I build is AI tooling wrapped in a full-stack app someone can actually use.
 
-## About
+## Now
 
-I move between quantum research, flight systems, and production software — and I ship in all three. The through-line is taking hard theory, from combinatorial optimization to orbital dynamics, and turning it into tools people actually run.
+I'm building [Gainloom](TODO-atiksh-gainloom-url). TODO(atiksh): one sentence on what Gainloom is and who it's for. With my mom, I also run [LifeAndBooks](https://youtube.com/@LifeandBooksss), a YouTube channel about books and life that has grown to 30K+ subscribers, 215+ videos, and 217K+ views.
 
-- **Quantum AI Researcher** — optimization algorithms for large-scale combinatorial problems
-- **Aerospace Systems Engineer** — modeling, simulation, flight-systems tooling
-- **Full-Stack Developer** — typed APIs, React frontends, cloud deployment
-- **Content Creator** — [LifeAndBooks](#lifeandbooks)
+## Projects
 
-## Featured projects
+**[Walkthru](https://github.com/andrewzagula/Walkthru)**: A pre-commit check that quizzes you on your own diff before the commit goes in. Won first place at the NY Tech Week Intern Hackathon 2026 (Mantle, YC F25). Git hooks, LLMs.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<b>Walkthru</b><br/>
-<sub><b>1st Place</b> · NY Tech Week Intern Hackathon 2026 · Mantle / YC F25</sub><br/>
-Pre-commit LLM quiz gate — forces you to understand code before it ships.<br/>
-<code>Git Hooks</code> <code>LLMs</code>
-</td>
-<td width="50%" valign="top">
-<b><a href="https://github.com/ats4321/dextrivia">Dextrivia</a></b><br/>
-Orbital debris removal optimizer using a TSP variant formulated as QUBO.<br/>
-<code>Python</code> <code>SGP4</code> <code>Celestrak TLE</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<b><a href="https://github.com/ats4321/prism">Prism</a></b><br/>
-Self-hosted AI code reviewer for GitHub PRs — no SaaS dependency.<br/>
-<code>Python</code> <code>Ollama</code> <code>GitHub Webhooks</code>
-</td>
-<td width="50%" valign="top">
-<b><a href="https://github.com/ats4321/the-last-alibi">The Last Alibi</a></b><br/>
-AI-generated murder mystery game with dynamic storytelling.<br/>
-<code>Next.js</code> <code>TypeScript</code> <code>OpenAI</code> <code>Zustand</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<b><a href="https://github.com/ats4321/ragit">Ragit</a></b><br/>
-Local-first RAG CLI for private document Q&amp;A.<br/>
-<code>Python</code> <code>Ollama</code> <code>Local Embeddings</code>
-</td>
-<td width="50%" valign="top">
-<b>Orphy</b><br/>
-Real-time ambient AI vocal coach.<br/>
-<code>Gemini API</code> <code>Next.js</code> <code>LangChain</code> <code>Pinecone</code>
-</td>
-</tr>
-</table>
+<details><summary>How it works</summary>
 
-## Tech stack
+It hooks into git, intercepts each commit, and asks you about your own diff with multiple choice, matching, and free-response questions. Score below 3.0 out of 5 and the commit is blocked. AI can write code faster than you can understand it, so something should check.
 
-<p align="center">
-  <sub><b>LANGUAGES</b></sub><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp&theme=dark">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,cpp&theme=light" height="48" alt="Python, TypeScript, JavaScript, C++">
-  </picture>
-</p>
-<p align="center">
-  <sub><b>AI &amp; ML</b></sub><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-ai-dark.svg">
-    <img src="assets/stack-ai-light.svg" height="40" alt="LangChain, Pinecone, OpenAI, Anthropic, Gemini, Ollama">
-  </picture>
-</p>
-<p align="center">
-  <sub><b>WEB</b></sub><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cnodejs%2Ctailwind&theme=dark">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind&theme=light" height="48" alt="Next.js, React, Node.js, Tailwind">
-  </picture>
-</p>
-<p align="center">
-  <sub><b>SPECIALIZED</b></sub><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-special-dark.svg">
-    <img src="assets/stack-special-light.svg" height="40" alt="Quantum Optimization (QUBO), Orbital Mechanics (SGP4), Prompt Engineering">
-  </picture>
-</p>
+</details>
 
-## GitHub stats
+**[Prism](https://github.com/ats4321/prism)**: Self-hosted AI code reviewer for GitHub PRs, with no SaaS dependency. Python, Ollama, GitHub webhooks.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-    <img src="assets/stats-light.svg" width="49%" alt="GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg">
-    <img src="assets/langs-light.svg" width="49%" alt="Top languages">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg">
-    <img src="assets/streak-light.svg" width="100%" alt="Contribution streak">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
-    <img src="assets/snake-light.svg" width="100%" alt="Contribution graph eaten by a snake">
-  </picture>
-</p>
+<details><summary>How it works</summary>
 
-## LifeAndBooks
+A webhook server pulls the diff on every PR event, splits it into hunks, reviews them with a local Ollama model, and posts inline comments on the exact file and line. When there's nothing worth saying, it deliberately says nothing. No code leaves the machine.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/youtube-dark.svg">
-  <img src="assets/youtube-light.svg" width="100%" alt="LifeAndBooks: 30K+ subscribers, 215+ videos, 217K+ views">
-</picture>
+</details>
 
-Books, productivity, and the examined life — built from zero with a data-driven content strategy.
+**[Ragit](https://github.com/ats4321/ragit)**: Local-first RAG CLI for asking questions about private documents. Python, Ollama, local embeddings.
 
-<a href="https://youtube.com/@LifeandBooksss"><img src="assets/btn-youtube.svg" height="34" alt="Watch LifeAndBooks on YouTube"></a>
+<details><summary>How it works</summary>
 
-## Connect
+It's two commands: `ragit index ./docs`, then `ragit chat ./docs`. Embeddings and generation both run through Ollama on your own machine, so there are no API keys and no cloud services.
 
-Open to **research collaborations**, **speaking**, **open-source contributions**, and **building ambitious things together** — reach me through the links at the top.
+</details>
 
-Speaking topics: Quantum Optimization · AI Systems & Agents · Aerospace Engineering · Content Strategy
+**[The Last Alibi](https://github.com/ats4321/the-last-alibi)**: AI-generated murder mystery game where every case is new. Next.js, TypeScript, OpenAI, Zustand.
 
-<p align="center"><sub>Cards regenerate daily from the GitHub API by <a href=".github/workflows/update-stats.yml">this workflow</a>.</sub></p>
+<details><summary>How it works</summary>
+
+Each case is generated from scratch: victim, suspects, motives, timeline, and a hidden killer. You interrogate suspects in chat, and the killer lies while the innocent ones don't. An evidence corkboard tracks contradictions, and the AI judges your final accusation.
+
+<img src="assets/the-last-alibi.jpg" width="600" alt="The Last Alibi start screen with a difficulty picker in black and gold">
+
+</details>
+
+**[Dextrivia](https://github.com/ats4321/dextrivia)**: Orbital debris removal optimizer using a TSP variant formulated as QUBO. Python, SGP4, Celestrak TLE.
+
+<details><summary>How it works</summary>
+
+It pulls live TLE data from Celestrak, propagates every object to a common epoch with SGP4, and builds a delta-v cost matrix from Hohmann transfers between each pair. A greedy solver then sequences a removal order for the Iridium-Cosmos 2009 debris cloud, which is the baseline a QUBO solver has to beat.
+
+</details>
+
+**Orphy** (TODO(atiksh): repo or demo link): Real-time ambient AI vocal coach. Gemini API, Next.js, LangChain, Pinecone, SendBlue.
+
+<details><summary>How it works</summary>
+
+It listens while you sing or speak, analyzes pitch and delivery, and coaches you in the moment instead of after the fact. I built it end to end at a multimodal hackathon.
+
+TODO(atiksh): Orphy screenshot, if you have one.
+
+</details>
+
+More detail on each project is on [my site](https://atikshshukla.vercel.app).
+
+## Latest from LifeAndBooks
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Lately
+
+- Reading: TODO(atiksh)
+- Learning: TODO(atiksh)
+- Away from the keyboard: TODO(atiksh)
+
+I mostly write Python and TypeScript, usually with Next.js, React, and LangChain.
+
+[Portfolio](https://atikshshukla.vercel.app) · [LinkedIn](https://linkedin.com/in/atiksh-shukla-a63356390) · [X](https://x.com/atshuu21) · [YouTube](https://youtube.com/@LifeandBooksss) · [Email](mailto:theatikshshukla@gmail.com)
