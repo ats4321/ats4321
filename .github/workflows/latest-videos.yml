@@ -19,7 +19,7 @@ jobs:
         with:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCCZ_TlSyNhcmuBQPn4wANaA"
           max_post_count: 3
-          template: "- [$title]($url)$newline"
+          template: "$newline- [$title]($url)"
           # Some titles use en dashes; the README avoids them.
           item_exec: 'post.title = post.title.replace(/\s*[–—]\s*/g, ", ")'
           commit_message: "chore: latest LifeAndBooks videos"
