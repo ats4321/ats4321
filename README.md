@@ -48,7 +48,7 @@ I usually build the whole thing, from the model calls to the interface people cl
 
 ## Featured Projects
 
-- **[Walkthru](https://github.com/andrewzagula/Walkthru)**: Pre-commit LLM quiz gate that makes you understand code before it ships<br/>
+- **Walkthru**: Pre-commit LLM quiz gate that makes you understand code before it ships<br/>
   <sub>`Git Hooks` `LLMs`</sub>
 - **[Dextrivia](https://github.com/ats4321/dextrivia)**: Orbital debris removal optimizer using a TSP variant formulated as QUBO<br/>
   <sub>`Python` `SGP4` `Celestrak TLE`</sub>
