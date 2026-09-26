@@ -1,235 +1,147 @@
-```
-kkkxxxxdddddddddoooooooooooooooddddddxxxxxxkkk    atiksh@shukla
-kxxxxxdddddddoooooodkkxoodddooooodddddddxxxxkk    ────────────────────────────────────────────────────────
-xxxxdddddooooooox0XWWWWNNNNNX0dooooodddddxxxxk    OS ................ macOS · Phoenix, AZ
-xxdddddoooooolxXNXXNWWWWWWXNNNXxlooooooddddxxx    Role .............. Founder @ Gainloom
-xxddddoooolllxXXXXXNWWWWWNXNNWNNxlloooooddddxx    Focus ............. Quantum AI + Aerospace + Software
-xdddooooolllxNXXNXKNWWWNWNNNWWWWNdlloooooodddd    Philosophy ........ Ship in all three.
-ddddooooolllKNNXXXXKXX0k0KNNWWWWWklllloooodddd
-dddooooollllONNNXXXOdl:ccl0WWWWWNdcllllooooddd    Languages.Code .... Python, TypeScript, C++
-dddoooollllllOWNKO0dl;,cdkOOO0KW0ccllllloooodd    Languages.AI ...... LangChain, Ollama, Anthropic, Gemini
-ddooooolllllccOOllcoccldlcccllo0llcllllloooodd    Languages.Web ..... Next.js, React, Node.js, Tailwind
-ddoooolllllccc:c:,',,:';l:,,:cldlccclllloooood    Languages.Science . QUBO (Quantum), SGP4 (Orbital Mech.)
-ddooooollllccc:;,'''';,:c:'',:oocccllllloooodd
-dddoooolllllccc:;,,;;;,,:ll,,:lccccllllooooodd    ────────────────────────────────────────────────────────
-dddooooolllllcccc,',;,',;:;,;llccccllllloooodd    Achievements
-dddoooollllllccccc:;,''',,:lddlccccllllloooodd    ────────────────────────────────────────────────────────
-dddooooolllllcccoO::lcclodxdlldKoccllllooooddd    [1st] NY Tech Week Hackathon 2026 (Mantle/YC F25)
-dddooooolllllllxKo,',;;,:cc::'cXKOollllooooddd    [30K] LifeAndBooks: 30K subs, 215+ videos, 217K views
-xdddooooollldx00Kd ;,''',;:'.,OXXKK0kdoooooddd    [R&D] Dextrivia: Orbital Debris Optimizer
-xdddoooodxOKK000K0;..;,',,..,kKKKKKNXXK0kxdddd
-xdddodk0KKKKOO00K0O;. ,:,..'x0KXXKKXNXXXXXKOxx    ────────────────────────────────────────────────────────
-xxddOKKKKKKKXXXXXXXKl. '..:KNNNXXXXXXXXXXXXNXO    GitHub.Stats
-xxdOKKKKKKKKKKKKKKXXKo.. lNNXXXXXXXXXXXXXXXXXX    ────────────────────────────────────────────────────────
-                                                  Repos: 25  |  Stars: 19  |  Followers: 2
+```text
+:::::-------          .::===---:
+:::---------     .:::--====**+-.
+:::::::::::==+*###%%%%@%%%%%%%*:.
+.....::--=+#%%%@@%%@@@@@@@@%##%##+.
+:::::::-=+*#%%%%%%@%%%%%%%%%%###%%#-.
+:::::=+=+**#%%@@@@@@@%@@@@@%%%#*#%%*:           atiksh@shukla
+  ..+******#%%%%@@%@%@@%%%%%#****#*+:           -------------
+  .=*##*##%###*#%%@@@%*==--..   -##*=.          OS ........... macOS, Phoenix AZ
+   :+*%+--:.....-*%%*----.       #%#*=.         Role ......... Founder @ Gainloom
+   .:*#       ... :-..:--:.     :##***-         Focus ........ AI tooling and full-stack apps
+    .##.          -%+.        .:-+#=++-         Philosophy ... Build it end to end.
+.....+#-.       :*%###+=-. ::=+*+==--:..
+.... .*+--==++*##=+===#%%%##**=--..:.  ....     Stack ........ Python, TypeScript, Next.js
+...::. :-=#%@@@@%-..:-*#%@@%#+=::-:  .....      AI ........... LangChain, Ollama, Anthropic, Gemini
+:::::--:..-+##%%%#=:-*#%%%#***#%##-   ...
+.:::------ .++++-=+*+*++*###%%%%%%#*=:....      GitHub ....... 25 repos, 19 stars, 2 followers
+:::------::-*%%###**#%%%%%@@@%%%%%%%%#- ...     Commits ...... 190 in 2026
+:::::---::-:=#%%@%%%%%%@%%%%%%%%%######:..
+:::---------::-*%##%%%#%%%%%%%%%%#####%*:..
+::----------=-:-##****+*#%%%###%%%###%##=
+::-----=======+--*#*=-:::-#*####%%%%%%%#*+:
+::---------==+===-==----:.=*##%#%#%%%%%%#*+-
 ```
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=760&height=64&lines=Hi+there%2C+I%27m+Atiksh+Shukla+%F0%9F%91%8B;Founder+%40+Gainloom;Quantum+AI+%C2%B7+Aerospace+%C2%B7+Full-Stack;Building+where+physics+meets+production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=830&height=60&lines=Hi,+I%27m+Atiksh+Shukla;Founder+%40+Gainloom;I+build+AI+tools+and+full-stack+apps" alt="Hi, I'm Atiksh Shukla. Founder at Gainloom. I build AI tools and full-stack apps.">
 
-<br/>
+I'm in Phoenix. Most of what I build is AI tooling wrapped in a full-stack app someone can actually use.
 
-> *I move between quantum research, flight systems, and production software — and I ship in all three.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atiksh-shukla-a63356390)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ats4321)
-&nbsp;
-[![X / Twitter](https://img.shields.io/badge/X-0F172A?style=flat-square&logo=x&logoColor=white)](https://x.com/atshuu21)
-&nbsp;
-[![YouTube](https://img.shields.io/badge/LifeAndBooks-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@LifeandBooksss)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://atikshshukla.vercel.app)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:theatikshshukla@gmail.com)
+<a href="https://atikshshukla.vercel.app"><img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&labelColor=24292F&logo=vercel&logoColor=white" width="111" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/atiksh-shukla-a63356390"><img src="https://img.shields.io/badge/LinkedIn-24292F?style=flat-square&labelColor=24292F&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjQgNCA2NCA2NCI+PHBhdGggZD0iTTYyLDYyIEw1MS4zMTU2MjUsNjIgTDUxLjMxNTYyNSw0My44MDIxMTQ5IEM1MS4zMTU2MjUsMzguODEyNzU0MiA0OS40MTk3OTE3LDM2LjAyNDUzMjMgNDUuNDcwNzAzMSwzNi4wMjQ1MzIzIEM0MS4xNzQ2MDk0LDM2LjAyNDUzMjMgMzguOTMwMDc4MSwzOC45MjYxMTAzIDM4LjkzMDA3ODEsNDMuODAyMTE0OSBMMzguOTMwMDc4MSw2MiBMMjguNjMzMzMzMyw2MiBMMjguNjMzMzMzMywyNy4zMzMzMzMzIEwzOC45MzAwNzgxLDI3LjMzMzMzMzMgTDM4LjkzMDA3ODEsMzIuMDAyOTI4MyBDMzguOTMwMDc4MSwzMi4wMDI5MjgzIDQyLjAyNjA0MTcsMjYuMjc0MjE1MSA0OS4zODI1NTIxLDI2LjI3NDIxNTEgQzU2LjczNTY3NzEsMjYuMjc0MjE1MSA2MiwzMC43NjQ0NzA1IDYyLDQwLjA1MTIxMiBMNjIsNjIgWiBNMTYuMzQ5MzQ5LDIyLjc5NDAxMzMgQzEyLjg0MjA1NzMsMjIuNzk0MDEzMyAxMCwxOS45Mjk2NTY3IDEwLDE2LjM5NzAwNjcgQzEwLDEyLjg2NDM1NjYgMTIuODQyMDU3MywxMCAxNi4zNDkzNDksMTAgQzE5Ljg1NjY0MDYsMTAgMjIuNjk3MDA1MiwxMi44NjQzNTY2IDIyLjY5NzAwNTIsMTYuMzk3MDA2NyBDMjIuNjk3MDA1MiwxOS45Mjk2NTY3IDE5Ljg1NjY0MDYsMjIuNzk0MDEzMyAxNi4zNDkzNDksMjIuNzk0MDEzMyBaIE0xMS4wMzI1NTIxLDYyIEwyMS43Njk0MDEsNjIgTDIxLjc2OTQwMSwyNy4zMzMzMzMzIEwxMS4wMzI1NTIxLDI3LjMzMzMzMzMgTDExLjAzMjU1MjEsNjIgWiIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg==&logoColor=white" width="113" alt="LinkedIn"></a>
+<a href="https://github.com/ats4321"><img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&labelColor=24292F&logo=github&logoColor=white" width="99" alt="GitHub"></a>
+<a href="https://x.com/atshuu21"><img src="https://img.shields.io/badge/X-24292F?style=flat-square&labelColor=24292F&logo=x&logoColor=white" width="57" alt="X"></a>
+<a href="https://youtube.com/@LifeandBooksss"><img src="https://img.shields.io/badge/YouTube-24292F?style=flat-square&labelColor=24292F&logo=youtube&logoColor=white" width="113" alt="YouTube"></a>
+<a href="mailto:theatikshshukla@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=flat-square&labelColor=24292F&logo=gmail&logoColor=white" width="91" alt="Email"></a>
 
 </div>
 
----
+## About
 
-<br/>
+I usually build the whole thing, from the model calls to the interface people click on, and most of my projects are small AI tools that solve one problem well.
 
-## 🧑‍💻 About Me
+- **Founder**: Gainloom
+- **Full-Stack Developer**: typed APIs, React frontends, cloud deployment
+- **Content Creator**: [LifeAndBooks](#lifeandbooks) on YouTube
 
-I'm a multi-disciplinary builder based in **Phoenix, AZ**, operating across **quantum computing**, **aerospace engineering**, and **production software**. Whether it's formulating orbital debris removal as a QUBO problem, designing flight-system tooling, or shipping full-stack AI products — I bring theoretical depth and practical output.
+## Featured Projects
 
-- 🏗️ &nbsp;**Founder** @ Gainloom
-- ⚛️ &nbsp;**Quantum AI Researcher** — optimization algorithms for large-scale combinatorial problems
-- 🛸 &nbsp;**Aerospace Systems Engineer** — modeling, simulation, flight-systems tooling
-- 🤖 &nbsp;**Full-Stack Developer** — typed APIs, React frontends, cloud deployment
-- 🏆 &nbsp;**1st Place** — NY Tech Week Intern Hackathon 2026 · Mantle / YC F25 · *Walkthru*
-- 📺 &nbsp;**Content Creator** — [LifeAndBooks](https://youtube.com/@LifeandBooksss) · 30K+ subscribers · 217K+ views
+- **Walkthru**: Pre-commit LLM quiz gate that makes you understand code before it ships<br/>
+  <sub>`Git Hooks` `LLMs`</sub>
+- **[Dextrivia](https://github.com/ats4321/dextrivia)**: Orbital debris removal optimizer using a TSP variant formulated as QUBO<br/>
+  <sub>`Python` `SGP4` `Celestrak TLE`</sub>
+- **[Prism](https://github.com/ats4321/prism)**: Self-hosted AI code reviewer for GitHub PRs, no SaaS dependency<br/>
+  <sub>`Python` `Ollama` `GitHub Webhooks`</sub>
+- **[The Last Alibi](https://github.com/ats4321/the-last-alibi)**: AI-generated murder mystery game where the killer lies in interrogation<br/>
+  <sub>`Next.js` `TypeScript` `OpenAI` `Zustand`</sub>
+- **[Ragit](https://github.com/ats4321/ragit)**: Local-first RAG CLI for private document Q&A<br/>
+  <sub>`Python` `Ollama` `Local Embeddings`</sub>
+- **Orphy**: Real-time ambient AI vocal coach<br/>
+  <sub>`Gemini API` `Next.js` `LangChain` `Pinecone`</sub>
 
-<br/>
-
----
-
-<br/>
-
-## 🚀 Featured Projects
-
-- 🔍 &nbsp;**[Walkthru](https://github.com/ats4321)**<br/>
-  Pre-commit LLM quiz gate — forces you to understand code before it ships · **🥇 1st Place, NY Tech Week 2026**<br/>
-  <sub>`Git Hooks` · `LLMs`</sub>
-
-- 🛸 &nbsp;**[Dextrivia](https://github.com/ats4321/dextrivia)**<br/>
-  Orbital debris removal optimizer using a TSP variant formulated as QUBO<br/>
-  <sub>`Python` · `SGP4` · `Celestrak TLE`</sub>
-
-- 🔎 &nbsp;**[Prism](https://github.com/ats4321/prism)**<br/>
-  Self-hosted AI code reviewer for GitHub PRs — no SaaS dependency<br/>
-  <sub>`Python` · `Ollama` · `GitHub Webhooks`</sub>
-
-- 🎭 &nbsp;**[The Last Alibi](https://github.com/ats4321/the-last-alibi)**<br/>
-  AI-generated murder mystery game with dynamic storytelling<br/>
-  <sub>`Next.js` · `TypeScript` · `OpenAI` · `Zustand`</sub>
-
-- 📚 &nbsp;**[Ragit](https://github.com/ats4321/ragit)**<br/>
-  Local-first RAG CLI for private document Q&A<br/>
-  <sub>`Python` · `Ollama` · `Local Embeddings`</sub>
-
-- 🎙️ &nbsp;**Orphy**<br/>
-  Real-time ambient AI vocal coach<br/>
-  <sub>`Gemini API` · `Next.js` · `LangChain` · `Pinecone`</sub>
-
-<br/>
-
----
-
-<br/>
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Ccpp&theme=dark">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp&theme=light" height="48" alt="Python, TypeScript, JavaScript, C++">
+</picture>
 
-**AI / ML**
+**AI and ML**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-0F172A?style=flat-square&logo=pinecone&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=flat-square&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama_(Local_LLMs)-0F172A?style=flat-square&logo=ollama&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/icons/ai-dark.svg">
+  <img src="assets/icons/ai-light.svg" height="48" alt="LangChain, Pinecone, OpenAI, Anthropic, Gemini, Ollama">
+</picture>
 
 **Web**
 
-![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Specialized**
-
-![Quantum](https://img.shields.io/badge/Quantum_Optimization_(QUBO)-6366F1?style=flat-square&logoColor=white)
-![Orbital](https://img.shields.io/badge/Orbital_Mechanics_(SGP4)-0F172A?style=flat-square&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=flat-square&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cnodejs%2Ctailwind&theme=dark">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind&theme=light" height="48" alt="Next.js, React, Node.js, Tailwind CSS">
+</picture>
 
 </div>
 
-<br/>
-
----
-
-<br/>
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ats4321&show_icons=true&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" height="170" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ats4321&layout=compact&hide_border=true&border_radius=12&langs_count=6&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" height="170" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ats4321&hide_border=true&border_radius=12&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" width="49%" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg">
+  <img src="assets/langs-light.svg" width="49%" alt="Top languages">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg">
+  <img src="assets/streak-light.svg" width="99%" alt="Contribution streak">
+</picture>
 
 </div>
 
-<br/>
-
----
-
-<br/>
-
-## 📺 LifeAndBooks · Content Stats
+## LifeAndBooks
 
 <div align="center">
 
-![Subscribers](https://img.shields.io/badge/%F0%9F%91%A5%20Subscribers-30%2C000%2B-6366F1?style=flat-square&labelColor=0F172A)
-&nbsp;
-![Videos](https://img.shields.io/badge/%F0%9F%8E%AC%20Videos-215%2B-6366F1?style=flat-square&labelColor=0F172A)
-&nbsp;
-![Total Views](https://img.shields.io/badge/%F0%9F%91%81%20Total%20Views-217%2C000%2B-6366F1?style=flat-square&labelColor=0F172A)
-
-<br/>
-
-*Books, productivity, and the examined life — built from zero with a data-driven content strategy.*
-
-<br/>
-
-[![Watch on YouTube](https://img.shields.io/badge/Watch_LifeAndBooks-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@LifeandBooksss)
+<img src="https://img.shields.io/badge/Subscribers-30K%2B-24292F?style=flat-square&labelColor=24292F&logo=youtube&logoColor=white" width="186" alt="30K+ subscribers">
+<img src="https://img.shields.io/badge/Videos-215%2B-24292F?style=flat-square&labelColor=24292F&logo=youtube&logoColor=white" width="144" alt="215+ videos">
+<img src="https://img.shields.io/badge/Views-217K%2B-24292F?style=flat-square&labelColor=24292F&logo=youtube&logoColor=white" width="147" alt="217K+ views">
 
 </div>
 
-<br/>
+A book and life channel I run with my mom. The three newest episodes:
 
----
+<!-- BLOG-POST-LIST:START -->
+- [Practical Wisdom with Ancient Scriptures: Bhagavad Gita Chapter 9 Verse 27 | Episode 217](https://www.youtube.com/watch?v=W4T5xo0Y3KM)
+- [Doha Diaries, Essence of Life: The Priceless Things We Often Take for Granted | Episode 216](https://www.youtube.com/watch?v=8c5MtFFhLQs)
+- [Quote that Stayed with me: What You Seek May Not Be What You Expect | Episode 215](https://www.youtube.com/watch?v=w1m9q2F5tYY)<!-- BLOG-POST-LIST:END -->
 
-<br/>
+<a href="https://youtube.com/@LifeandBooksss"><img src="https://img.shields.io/badge/Watch_on_YouTube-24292F?style=flat-square&labelColor=24292F&logo=youtube&logoColor=white" width="192" alt="Watch LifeAndBooks on YouTube"></a>
 
-## 🏆 Achievements
+## Achievements
 
-- 🥇 &nbsp;**1st Place — NY Tech Week Intern Hackathon 2026** · Mantle / YC F25 · *Walkthru*
-- 📺 &nbsp;**30K+ YouTube Subscribers** — Built LifeAndBooks from zero using data-driven content strategy
-- 🛸 &nbsp;**Orbital Debris Research** — QUBO-formulated TSP variant for scalable space sustainability
+- **1st Place, NY Tech Week Intern Hackathon 2026** (Mantle, YC F25) with Walkthru
+- **LifeAndBooks**: grew a channel from nothing with my mom while learning video production from scratch
 
-<br/>
+## Connect
 
----
+I'm open to collaborations, speaking, and open-source work. I can talk about building AI systems and agents, or about growing a YouTube channel.
 
-<br/>
-
-## 🤝 Let's Connect
-
-I'm open to **research collaborations**, **speaking opportunities**, **open-source contributions**, and **building ambitious things together**.
-
-Topics I can speak to: Quantum Optimization · AI Systems & Agents · Aerospace Engineering · Content Strategy
-
-<br/>
+<a href="mailto:theatikshshukla@gmail.com"><img src="https://img.shields.io/badge/Email_me-24292F?style=flat-square&labelColor=24292F&logo=gmail&logoColor=white" width="119" alt="Email me"></a>
+<a href="https://linkedin.com/in/atiksh-shukla-a63356390"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-24292F?style=flat-square&labelColor=24292F&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjQgNCA2NCA2NCI+PHBhdGggZD0iTTYyLDYyIEw1MS4zMTU2MjUsNjIgTDUxLjMxNTYyNSw0My44MDIxMTQ5IEM1MS4zMTU2MjUsMzguODEyNzU0MiA0OS40MTk3OTE3LDM2LjAyNDUzMjMgNDUuNDcwNzAzMSwzNi4wMjQ1MzIzIEM0MS4xNzQ2MDk0LDM2LjAyNDUzMjMgMzguOTMwMDc4MSwzOC45MjYxMTAzIDM4LjkzMDA3ODEsNDMuODAyMTE0OSBMMzguOTMwMDc4MSw2MiBMMjguNjMzMzMzMyw2MiBMMjguNjMzMzMzMywyNy4zMzMzMzMzIEwzOC45MzAwNzgxLDI3LjMzMzMzMzMgTDM4LjkzMDA3ODEsMzIuMDAyOTI4MyBDMzguOTMwMDc4MSwzMi4wMDI5MjgzIDQyLjAyNjA0MTcsMjYuMjc0MjE1MSA0OS4zODI1NTIxLDI2LjI3NDIxNTEgQzU2LjczNTY3NzEsMjYuMjc0MjE1MSA2MiwzMC43NjQ0NzA1IDYyLDQwLjA1MTIxMiBMNjIsNjIgWiBNMTYuMzQ5MzQ5LDIyLjc5NDAxMzMgQzEyLjg0MjA1NzMsMjIuNzk0MDEzMyAxMCwxOS45Mjk2NTY3IDEwLDE2LjM5NzAwNjcgQzEwLDEyLjg2NDM1NjYgMTIuODQyMDU3MywxMCAxNi4zNDkzNDksMTAgQzE5Ljg1NjY0MDYsMTAgMjIuNjk3MDA1MiwxMi44NjQzNTY2IDIyLjY5NzAwNTIsMTYuMzk3MDA2NyBDMjIuNjk3MDA1MiwxOS45Mjk2NTY3IDE5Ljg1NjY0MDYsMjIuNzk0MDEzMyAxNi4zNDkzNDksMjIuNzk0MDEzMyBaIE0xMS4wMzI1NTIxLDYyIEwyMS43Njk0MDEsNjIgTDIxLjc2OTQwMSwyNy4zMzMzMzMzIEwxMS4wMzI1NTIxLDI3LjMzMzMzMzMgTDExLjAzMjU1MjEsNjIgWiIgZmlsbD0iI0ZGRkZGRiIvPjwvc3ZnPg==&logoColor=white" width="206" alt="Connect on LinkedIn"></a>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atiksh-shukla-a63356390)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://atikshshukla.vercel.app)
-&nbsp;
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:theatikshshukla@gmail.com)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ats4321.ats4321&left_color=%2324292F&right_color=%2324292F&left_text=Profile%20views" width="135" alt="Profile views">
 
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ats4321&color=6366F1&style=flat-square&label=Profile+Views)
-
-<br/>
-
-*Phoenix, AZ · Updated July 2026*
+<sub>Stats last updated <!--updated-->September 25, 2026<!--/updated--></sub>
 
 </div>
